@@ -1,0 +1,15 @@
+h1 {
+    color: chartreuse;
+}    
+img {
+    width: 400px;
+}
+#thirddiv {
+    margin-left: auto; margin-right: auto; width: 500px; height: 600px; background-color: rgb(231, 224, 204); padding: 50px; border: blueviolet;
+}
+#spanid {
+    font-size: 25px; margin: 50px;
+}
+.divclass {
+   margin-left: auto; margin-right: auto; background-image: url(https://picsum.photos/200/300/?blur) ; width: 200px; height: 200px; color: brown;
+}
